@@ -11,3 +11,8 @@
 不要说我是什么开不起玩笑，我很反感这么一出
 
 等到给了个我能接受的解释了再撤掉
+
+
+<span id="busuanzi_container_site_pv">    
+	本站总访问量<span id="busuanzi_value_site_pv"></span>次
+</span>
