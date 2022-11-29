@@ -1,5 +1,10 @@
 # Diss-Wall 怼人墙
 
+怼人墙网站链接：https://disswall.HK256.top
+
+<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+<span id="busuanzi_container_site_pv">本站总访问量<span id="busuanzi_value_site_pv"></span>次</span>
+
 当别人认为这不是玩笑的时候…
 
 在生日那天…
@@ -12,11 +17,7 @@
 
 等到给了个我能接受的解释了再撤掉
 
-<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-<span id="busuanzi_container_site_pv">本站总访问量<span id="busuanzi_value_site_pv"></span>次</span>
-
-
-##### 11月24日更新
+#### 11月24日更新
 
 要说这事其实没多大，但是这货平常就是这性格，那天一整天心情全寄了
 
@@ -31,7 +32,7 @@
 继续看戏
 
 ---
-#### 别人的评价
+## 别人的评价
 
 ![风评1](风评1.jpeg)
 
@@ -43,7 +44,7 @@
 
 内容来自：@四十四中怼人墙
 
-#### 日常
+## 日常
 
 ![日常1](日常1.jpg)
 
@@ -57,5 +58,5 @@
 
 ---
 
-![田の错字](田の错字.jpg)
+![田の错字](20221016截图.jpg)
 
