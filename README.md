@@ -12,6 +12,10 @@
 
 等到给了个我能接受的解释了再撤掉
 
+<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+<span id="busuanzi_container_site_pv">本站总访问量<span id="busuanzi_value_site_pv"></span>次</span>
+
+
 ##### 11月24日更新
 
 要说这事其实没多大，但是这货平常就是这性格，那天一整天心情全寄了
@@ -53,5 +57,5 @@
 
 ---
 
-<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-<span id="busuanzi_container_site_pv">本站总访问量<span id="busuanzi_value_site_pv"></span>次</span>
+![田の错字](田の错字.jpg)
+
